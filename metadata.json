@@ -1,0 +1,6 @@
+{
+  "name": "Elena Integrated LMS",
+  "description": "An interactive, high-fidelity mobile LMS web application prototype matching Elena UI/UX mockup specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
